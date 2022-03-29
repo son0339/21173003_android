@@ -11,4 +11,4 @@
 
 # 4주차 (2022-03-29)
 Toast 메세지
-<img width="" height="" src="./pic/.jpg"></img>
+<img width="" height="" src="./pic/4주차_Toast.jpg"></img>
