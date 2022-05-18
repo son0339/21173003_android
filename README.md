@@ -21,4 +21,10 @@ Toast 메세지
 <img width="" height="" src="./pic/실행화면_dog.jpg"></img>
 <img width="" height="" src="./pic/실행화면_cat.jpg"></img>
 
+# 10주차 (2022-05-18)
+여러 화면 만들고 화면 간 전환하기
+
+<img width="" height="" src="./pic/오류1.jpg"></img>
+<img width="" height="" src="./pic/코드2.jpg"></img>
+<img width="" height="" src="./pic/코드3.jpg"></img>
 
