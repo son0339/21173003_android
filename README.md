@@ -36,3 +36,6 @@ Toast 메세지
 웹으로 요청하기 결과 캡처 화면 
 <img width="" height="" src="./pic/11주차.jpg"></img>
 
+# 12주차 (2022-05-18)
+영화정보의 수 + github 연동 
+
